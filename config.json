@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "deployAliases": {
+    "testnet": {
+      "networkId": "testnet",
+      "url": "https://proxy.devnet.minaexplorer.com/graphql",
+      "keyPath": "keys/testnet.json",
+      "feepayerKeyPath": "/home/enami/.cache/zkapp-cli/keys/enami.json",
+      "feepayerAlias": "enami",
+      "fee": "0.1",
+      "smartContract": "Add"
+    }
+  }
+}
